@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">task 1</string>
+    <string name="btc">BTC</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="chainlink">Chainlink</string>
+    <string name="link">LINK</string>
+    <string name="cardano">Cardano</string>
+    <string name="ada">ADA</string>
+    <string name="shiba_inu">SHIBA INU</string>
+    <string name="hifi">HIFI</string>
+    <string name="ren">REN</string>
+    <string name="chainlinks">Chainlink</string>
+    <string name="links">LINK</string>
+    <string name="_32_697_05">32,697.05</string>
+    <string name="_468_554_23">$468,554.23</string>
+    <string name="_32_697_051">32,697.05</string>
+    <string name="_468_554_231">$468,554.23</string>
+    <string name="deposit">Deposit</string>
+    <string name="transfer">Transfer</string>
+    <string name="_40_059_83">40,059.83</string>
+    <string name="current_balance">Current Balance</string>
+    <string name="_468_55423">$468.55423</string>
+    <string name="_32_697_052">32,697.05</string>
+    <string name="_32_697_053">32,697.05</string>
+    <string name="_468_554_233">$468,554.23</string>
+    <string name="_32_697_054">32,697.05</string>
+    <string name="_468_554_234">$468,554.23</string>
+    <string name="_32_697_056">32,697.05</string>
+    <string name="_32_697_057">32,697.05</string>
+    <string name="_468_554_238">$468,554.23</string>
+    <string name="_468_554_239">$468,554.23</string>
+    <string name="rent">REN</string>
+    <string name="shib">SHIB</string>
+    <string name="_468_554_2387">$468,554.23</string>
+    <string name="withdraw">Withdraw</string>
+    <string name="mft">MFT</string>
+</resources>
